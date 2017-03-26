@@ -1,8 +1,8 @@
-# python-axel
+# axel-wrapper
 Python wrapper of axel, a light command line download accelerator
 
 ## Installation
-`python-axel` depends on `axel`, so you must install `axel` before `python-axel`
+`axel-wrapper` depends on `axel`, so you must install `axel` before `python-axel`
 
 ### Install axel
 
@@ -18,9 +18,9 @@ sudo apt-get install axel
 sudo pacman -S axel
 ```
 
-### Install python-axel
+### Install axel-wrapper
 ```
-pip install axel
+pip install axel-wrapper
 ```
 
 ## Basic usage
